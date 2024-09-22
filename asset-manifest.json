@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactfruit/static/css/main.c73d0af0.css",
+    "main.js": "/reactfruit/static/js/main.3b425137.js",
+    "static/js/453.a6b22389.chunk.js": "/reactfruit/static/js/453.a6b22389.chunk.js",
+    "index.html": "/reactfruit/index.html",
+    "main.c73d0af0.css.map": "/reactfruit/static/css/main.c73d0af0.css.map",
+    "main.3b425137.js.map": "/reactfruit/static/js/main.3b425137.js.map",
+    "453.a6b22389.chunk.js.map": "/reactfruit/static/js/453.a6b22389.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c73d0af0.css",
+    "static/js/main.3b425137.js"
+  ]
+}
